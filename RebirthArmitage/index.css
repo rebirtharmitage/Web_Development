@@ -1,0 +1,53 @@
+h1{
+	text-align:center;
+}
+
+body{
+	background-image:url('../rebirtharmitage/background7.jpg');
+}
+
+.page-header{
+	opacity: .8;
+	margin-top: -100px;
+	background:gray;
+}
+
+.container{
+
+}
+
+.logo{
+	max-height: 43px;
+	max-width: 200px;
+	margin-top:-10px;
+}
+
+#topbar{
+	text-align:center;
+}
+
+#clogo{
+	margin-left:-150px;
+	margin-right:-150px;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 60px 15px 0;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+#footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
